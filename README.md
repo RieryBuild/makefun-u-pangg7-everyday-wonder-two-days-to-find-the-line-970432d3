@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3/RieryBuild/makefun-u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3/rank.svg)](https://make.fun/bounty/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3)
 [![reward](https://make.fun/badge/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3/RieryBuild/makefun-u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3/reward.svg)](https://make.fun/bounty/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3)
 
-Entry for the [make.fun bounty "Everyday Wonder, Two Days to Find the Line"](https://make.fun/bounty/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3): one sentence, 94 characters, on a small moment of wonder in everyday life.
+Entry for the [make.fun bounty "Everyday Wonder, Two Days to Find the Line"](https://make.fun/bounty/u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3): one sentence, 90 characters, on a small moment of wonder in everyday life.
 
 > Sunlight through the blinds printed a ladder on my wall, and my room had borrowed a staircase.
 
