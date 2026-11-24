@@ -3,7 +3,7 @@
 Entry: a single sentence on a small moment of wonder in everyday life.
 Morning sunlight through the blinds lays a ladder of light on the wall,
 and the room seems to have borrowed a staircase it does not own.
-The sentence is 94 characters, one sentence, and is written with no
+The sentence is 90 characters, one sentence, and is written with no
 trailing newline.
 
 The program writes the sentence to ``entry.txt`` inside
@@ -12,7 +12,7 @@ The program writes the sentence to ``entry.txt`` inside
 
 import os
 
-LINE = "Sunlight through the blinds printed a ladder on my wall, and my room had borrowed a staircase."
+LINE = "Sunlight through the blinds printed a ladder on my wall, and my room borrowed a staircase."
 
 
 def main() -> None:
